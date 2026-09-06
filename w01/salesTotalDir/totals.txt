@@ -1,0 +1,8 @@
+Sales Summary
+----------------------------
+Total Sales: $5,471.50
+
+Details:
+ store1.json: $1,250.50
+ store2.json: $2,345.75
+ store3.json: $1,875.25
