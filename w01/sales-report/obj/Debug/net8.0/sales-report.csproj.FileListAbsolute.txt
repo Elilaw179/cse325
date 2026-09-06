@@ -1,0 +1,17 @@
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\bin\Debug\net8.0\sales-report.exe
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\bin\Debug\net8.0\sales-report.deps.json
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\bin\Debug\net8.0\sales-report.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\bin\Debug\net8.0\sales-report.dll
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\bin\Debug\net8.0\sales-report.pdb
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\obj\Debug\net8.0\sales-report.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\obj\Debug\net8.0\sales-report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\obj\Debug\net8.0\sales-report.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\obj\Debug\net8.0\sales-report.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\obj\Debug\net8.0\sales-report.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\obj\Debug\net8.0\sales-re.123AC21E.Up2Date
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\obj\Debug\net8.0\sales-report.dll
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\obj\Debug\net8.0\refint\sales-report.dll
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\obj\Debug\net8.0\sales-report.pdb
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\obj\Debug\net8.0\sales-report.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\cse325\w01\sales-report\obj\Debug\net8.0\ref\sales-report.dll
