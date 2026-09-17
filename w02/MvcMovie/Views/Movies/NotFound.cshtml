@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Movie Not Found";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-1">404</h1>
+
+    <h2 class="text-danger">Movie Not Found</h2>
+
+    <p class="lead">
+        Sorry, the movie you are looking for does not exist.
+    </p>
+
+    <a asp-controller="Movies"
+       asp-action="Index"
+       class="btn btn-primary">
+        Back to Movies
+    </a>
+</div>
